@@ -1,6 +1,6 @@
 # ✨ Huge QoL for Builders
 
-[![YouTube Demo](https://img.youtube.com/vi/HqhlDVcfaYU/0.jpg)](https://www.youtube.com/watch?v=HqhlDVcfaYU)  
+[![YouTube Demo](https://img.youtube.com/vi/c6hVQmQu2aQ/0.jpg)](https://www.youtube.com/watch?v=c6hVQmQu2aQ)  
 *Click image to watch demo video*
 
 Works with **any Java client** and **Bedrock via Geyser** • 24 powerful brushes • Compatible with WorldEdit/FAWE
