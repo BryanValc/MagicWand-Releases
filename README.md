@@ -18,6 +18,7 @@ Works with **any Java client** and **Bedrock via Geyser** • 24 powerful brushe
 - **Seamless Undo System** (With WorldEdit/FAWE)
 - **Permission-Based Limits** (XYZ dimensions via LuckPerms)
 - **Region Protection Aware** (Respects plots/regions)
+- [**30 FAWE noises**](https://magicwand.gitbook.io/magicwand-wiki/for-builders/noises) (can be used as patterns/masks like the #simplex)
 - **Axiom Compatible** (optional)
 
 ---
